@@ -58,9 +58,7 @@ label
 
 input[type="checkbox"]
 {
-	align-self: flex-end;
-	top: 5px;
-    right: 5px;
+	align-self:center;
 }
 
 input[type="checkbox"]:checked+label
